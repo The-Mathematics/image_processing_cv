@@ -1,2 +1,2 @@
 # image_processing_cv
-Includes code and notes on basic image processing techniques using openCV
+Includes code, images and notes (using comments) on basic image processing techniques using openCV
